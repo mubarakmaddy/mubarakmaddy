@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-There is the land where I share toys and take a break.
+This is the land where I share toys and take a break.
 
 <!--
 **mubarakmaddy/mubarakmaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
